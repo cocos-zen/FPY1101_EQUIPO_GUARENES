@@ -25,7 +25,6 @@ while True:
  elif op == "2":
     datos_alexander()
  elif op == "3":
-    datos_francisco():
-    pass# Aquí se llamará a la función del integrante 3
+    datos_francisco()
  else:
     print(" Opción inválida.")
