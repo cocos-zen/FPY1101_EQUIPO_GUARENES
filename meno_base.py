@@ -1,8 +1,8 @@
 def datos_ronald():
  print("Mi nombre es Ronald Silva y tengo 22 años!")
 
-
-
+def datos_alexander():
+ print("Mi nombre es alexander y tengo 18 años")
 
 
 
@@ -22,7 +22,7 @@ while True:
  elif op == "1":
     datos_ronald()
  elif op == "2":
-    pass# Aquí se llamará a la función del integrante 2
+    datos_alexander()
  elif op == "3":
     pass# Aquí se llamará a la función del integrante 3
  else:
