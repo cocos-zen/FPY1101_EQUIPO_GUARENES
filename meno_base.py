@@ -4,7 +4,7 @@ def datos_ronald():
 def datos_alexander():
  print("Mi nombre es alexander y tengo 18 años")
 
-def datos_Francisco():
+def datos_francisco():
  print("Mi nombre es Francisco y tengo 19 años")
 
 
